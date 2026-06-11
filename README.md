@@ -34,8 +34,7 @@ Brezhnev_…tom_2_2016.md  ->  extract_trips.py  ->  trips_segments.csv  ->  tri
 
 ```
 extract_trips.py       парсер
-load_trips.py          CSV для ноутбука
-notebooks/             Plotly
+notebooks/             Plotly (загрузка CSV внутри ноутбука)
 Brezhnev_…2016.md      исходник (PDF->MD, обычно не в git)
 trips_segments.csv     результат парсера
 ```
