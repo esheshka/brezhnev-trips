@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Исходник PDF→MD — локально для пересборки CSV (см. README)
+Brezhnev_L_I_Rabochie_i_dnevnikovye_zapisi_V_3_kh_tomakh_tom_2_2016.md
